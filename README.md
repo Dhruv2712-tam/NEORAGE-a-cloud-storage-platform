@@ -58,6 +58,7 @@ Your Supabase URL and anon key are already set in `src/supabase.js`. If you need
 const supabaseUrl = "your-supabase-url"
 const supabaseAnonKey = "your-anon-key"
 ```
+Note : you can find example.application.properties replace the values with your credentials in that file for it to work
 3. Start the dev server
 ```bash
 npm run dev
